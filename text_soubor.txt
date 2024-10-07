@@ -1,8 +1,7 @@
 aaaa
 bbbb
 zmena na radku s ceckama
-ddd
-eee
+dddnaprosto jina zmena na radku s eckama
 fff
 ggg
 hhh
